@@ -23,7 +23,7 @@
   }
   
   .banner {
-    background: url(file:///Users/amelievirollet/Downloads/0032_%23%23%23%203.jpg) center/cover;
+    background: url("images/banner.jpg") center/cover;
     height: 500px; 
     text-align: center;
     display: flex;
